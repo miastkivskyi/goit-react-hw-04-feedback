@@ -1,0 +1,13 @@
+.list {
+  padding: 0px;
+}
+
+.item {
+  list-style: none;
+  font-weight: 400;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.data {
+  margin-left: 5px;
+}

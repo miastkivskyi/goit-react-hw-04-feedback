@@ -1,0 +1,15 @@
+.button {
+  font-size: 18px;
+  margin-right: 10px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.button:hover {
+  background-color: burlywood;
+  outline: auto;
+  outline-color: transparent;
+  outline-style: solid;
+}
